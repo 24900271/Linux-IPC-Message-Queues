@@ -85,11 +85,11 @@ Execute the C Program for the desired output.
 
 ## OUTPUT
 
-<img width="775" height="133" alt="4" src="https://github.com/user-attachments/assets/2848b570-2a27-4bc1-be71-62dcf90cf022" />
+![alt text](image.png)
 
-<img width="878" height="258" alt="44" src="https://github.com/user-attachments/assets/9b66ac2d-d838-4173-9d39-631d478e56e2" />
+![alt text](image-1.png)
 
-<img width="712" height="142" alt="444" src="https://github.com/user-attachments/assets/17a428e7-2b07-47d3-9eb1-1b7b5610f593" />
+![alt text](image-2.png)
 
 # RESULT:
 The programs are executed successfully.
